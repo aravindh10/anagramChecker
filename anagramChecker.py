@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import numpy as np
 import itertools
 import string
